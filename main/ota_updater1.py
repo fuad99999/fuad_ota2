@@ -1,6 +1,6 @@
 # 1000 x dank aan Evelien die mijn in deze tijden gesteund heeft
 # ohja, en er is ook nog tante suker (Jana Dej.) die graag kinderen wilt maar het zelf nog niet beseft
-#fuad
+#fuad zzz
 import usocket
 import os
 import gc
